@@ -1,4 +1,5 @@
-
+**Live app:** [Coffee Ops Dashboard](https://coffee-ops-dashboard.streamlit.app/)  
+**GitHub repository:** [coffee-ops-dashboard](https://github.com/JammieJiang/coffee-ops-dashboard)
 ## 1. Dataset and decision-maker
 
 This project uses **CSV1 (`index_1.csv`) only** from the Kaggle [Coffee Sales dataset](https://www.kaggle.com/datasets/ihelon/coffee-sales) by Yaroslav Isaienkov. The dataset page describes sales from a coffee vending machine, collected from March 2024 onward. The dataset page describes these as sales transactions from a coffee vending machine; the source does not provide enough machine-operating metadata to independently audit collection completeness. CSV1 contains **3,636 transaction records** from **March 1, 2024 through March 23, 2025**, covering eight drink names. The source page lists the dataset as CC0: Public Domain. Keep the provided `index_1.csv` in this project folder next to `app.py`; commit that CSV with the app so the GitHub deployment can read it. The project uses no other CSV.
