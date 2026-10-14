@@ -1,8 +1,3 @@
-# Coffee Ops: Vending Machine Sales Monitor
-
-**Student:** Jammie  
-**Project/team label used in the app:** Coffee Ops  
-**Course:** BANA409 — Machine Learning for Business
 
 ## 1. Dataset and decision-maker
 
@@ -73,5 +68,3 @@ Open `coffee_sales_eda.ipynb` in VS Code and select the existing `ml4biz` Python
 2. In Streamlit Community Cloud, create an app from that repository and set the main file to `app.py`.
 3. In **Advanced settings**, choose Python **3.14**, then deploy.
 4. Check the deployed app and submit its URL plus the public repository URL in Canvas.
-
-The repository and deployed app are a starter implementation for Jammie's individual submission. Replace the project/team label if your class team uses a different name.
